@@ -2,3 +2,5 @@
 Detecting Animal Interactions - A Deep Learning Based Pig Detection and Tracking Approach for the Quantification of Social Contacts
 
 Supplementary files  
+
+If you use this dataset, please reference this study.
